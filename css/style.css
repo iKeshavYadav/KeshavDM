@@ -684,7 +684,7 @@ label.error {
 }
 
 .phone-link {
-	cursor: default;
+	cursor: pointer;
 }
 
 .nav-toggle-btn {
